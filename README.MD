@@ -116,11 +116,7 @@
    r = \log_f c
    $$
 
-4. 其中： f = fanout  ，c = clusterSize ， 如：fanout=5，clusterSize=20
-
-5. $$
-   r = \log_5 20 = 1.86
-   $$
+4. 其中： f = fanout  ，c = clusterSize ， 如：fanout=5，clusterSize=20， log-5-20 ≈ 1.86
 
    
 
